@@ -1,7 +1,7 @@
 # Project-8-Python-For-Data-Analysis-Census
 End-to-end EDA on India Census 2011 | Analyzing population, religion, workers &amp; education across 640 districts using Python, Pandas, Matplotlib &amp; Seaborn
 
-# 🇮🇳 Data Analysis Project — India Census 2011
+# Data Analysis Project — India Census 2011
 
 An end-to-end Data Analysis project on India Census 2011 district-level data, completed as part of the **Python for Data Analysis** course.
 
